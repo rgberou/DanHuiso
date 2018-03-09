@@ -35,7 +35,7 @@
 }
 #headtext{
 	background-color: white;
-
+	width: inherit;
 }
 .headerTextContainer {
     padding-top: 150px;
