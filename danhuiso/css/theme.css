@@ -35,7 +35,10 @@
 }
 #headtext{
 	background-color: white;
-	width: inherit;
+	margin-left: 45%;
+	width: 100%;
+	padding: 25px;
+	font-size: large;
 }
 .headerTextContainer {
     padding-top: 150px;
